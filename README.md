@@ -1,8 +1,8 @@
 # Cyprus Codes Student Roster
 
-## Example Cohort
+## February 2022
 
-- [Example Student](/example-cohort/example.md)
+- [Huseyin Safa](/february2022/Huseyin-S.md)
 
 ## November 2020
 
