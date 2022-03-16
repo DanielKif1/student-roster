@@ -1,0 +1,5 @@
+- Name: Huseyin Safa
+- Likes: skating, movement, music, cooking, travel 
+- Dislikes: small talk
+- Favourite Quote: “Every man has two lives, and the second starts when he realises he has just one” - Konficyus
+- GitHub Profile URL: https://github.com/hsynsafa
