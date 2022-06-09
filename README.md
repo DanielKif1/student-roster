@@ -38,3 +38,6 @@
 
 ## February 2022
 - [Ayshen Saglamer](/february 2022/Ayshen-S.md)
+
+## June 2022
+- [ELIAS BARAKA](/june2022/Elias-B.md)
