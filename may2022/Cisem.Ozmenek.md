@@ -1,6 +1,0 @@
-- Name: Cisem
-- Surname: Ozmenek
-- Likes: Dancing, languages, movies&books, mythology and animals
-- Dislike: Animal cruelty, roller coasters
-- Favorite Quote: GR/ Γίνε εσύ αλλαγή που θες να δεις στον κόσμο. EN/ Be the change you want to see in the world.
-- Github Profile URL: https://github.com/Cisem-Cy

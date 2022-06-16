@@ -46,3 +46,6 @@
 - [Sabri Altinkaya](/may2022/sabri-altinkaya.md)
 ## June 2022
 - [ELIAS BARAKA](/june2022/Elias-B.md)
+
+## June 2022
+-[Daniel Kifinga](/june2022/Daniel-K.md)

@@ -1,5 +1,0 @@
-- Name: Devran Dağıstan
-- Likes: Playing game
-- Dislike: ignorant people
-- Favorite Quote: "Türk halkının yüzde 60'ı aptal"
-- Github Profile URL: https://github.com/dev1roa

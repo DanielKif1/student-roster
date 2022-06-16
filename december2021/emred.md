@@ -1,5 +1,0 @@
-- Name: Emre Daggul
-- Likes: Cooking, Driving
-- Dislike: Annoying People
-- Favorite Quote: All of them
-- Github Profile URL: https://github.com/EmreDDD

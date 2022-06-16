@@ -1,5 +1,0 @@
-- Name:Pembe Mistikoglu
-- Likes: -
-- Dislikes: -
-- Favourite Quote: -
-- GitHub Profile URL: https://github.com/PemMmM

@@ -1,5 +1,0 @@
-- Name: Ahmet Akınsel
-- Likes: Music, Movies, Food
-- Dislikes: Arrogance
-- Favourite Quote: "Victory is always possible for the person who refuses to stop fighting"
-- GitHub Profile URL: https://github.com/ahmet92akinsel
